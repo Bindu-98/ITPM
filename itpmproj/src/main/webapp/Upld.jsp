@@ -20,9 +20,9 @@
             <div id="sidebar-wrapper">
                 <ul class="sidebar-nav">
                     <li data-aos="fade" data-aos-duration="400" data-aos-once="true" class="sidebar-brand"> <a href="#">Home </a></li>
-                    <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="400" data-aos-once="true"> <a href="#">Size &nbsp;Variables Methods</a></li>
+                    <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="400" data-aos-once="true"> <a href="Choose/index.html">Size &nbsp;Variables Methods</a></li>
                     <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="550" data-aos-once="true"> <a href="#">Coupling</a></li>
-                    <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="700" data-aos-once="true"> <a href="#">Inheritence</a></li>
+                    <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="700" data-aos-once="true"> <a href="#">Inheritance</a></li>
                     <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="850" data-aos-once="true"> <a href="#">Control Structures</a></li>
                     <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="1000" data-aos-once="true"> <a href="#">Compare</a></li>
                     <li data-aos="zoom-in-up" data-aos-duration="200" data-aos-delay="1050" data-aos-once="true"> <a href="#">About</a></li>
